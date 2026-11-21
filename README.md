@@ -1,1 +1,0 @@
-# Proyecto_procesamiento_imagenes
